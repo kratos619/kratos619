@@ -9,7 +9,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/kratos619">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+systems+people+actually+use%2C+not+just+things+that+demo+well;5+years+turning+caffeine+into+production-grade+code;Angular+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+WebSockets+%E2%80%A2+Agora" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Shipping+things+people+actually+use+%F0%9F%9A%80;5+years+of+caffeine-powered+production+code+%E2%98%95;Angular+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+WebSockets;Real-time+systems+that+save+lives+%F0%9F%9A%91" alt="Typing SVG" />
 </a>
 
 <br/>
